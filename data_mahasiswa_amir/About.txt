@@ -1,0 +1,10 @@
+TUGAS UJIAN AKHIR SEMESTER PEMROGRMAN WEB
+"Aplikasi CRUD Sistem Informasi Data Mahasiswa"
+
+Nama	: Heppy Agustian
+NIM	: 4118044
+Prodi	: Sistem Informasi 3A
+=======================================================================
+Nama Database	= datamahasiswa
+Login Admin	= (username = admin) (password=admin)
+Login User	= (username = 4118070) (password = 4118070)
